@@ -1,6 +1,6 @@
 # Hi, I'm Derek! 👋
 
-Welcome to my GitHub! I'm an aspiring full-stack developer dedicated to creating impactful web solutions that drive business results. I'm passionate about building high-performance websites and applications.
+Welcome to my GitHub! I'm an aspiring full-stack developer from 🇨🇦 Ontario, Canada with roots in 🇵🇹 Portugal. I'm dedicated to creating impactful web solutions that drive business results and passionate about building high-performance websites and applications.
 
 ## 🏢 Avocean - Business Consulting & Marketing Agency
 
