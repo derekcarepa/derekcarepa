@@ -9,11 +9,11 @@ I founded Avocean to help businesses thrive through strategic digital solutions.
 ## 💻 Tools & Technologies
 
 - **Backend**: AdonisJS, Node.js, Bun
-- **Frontend**: TanStack, Astro, React
+- **Frontend**: TanStack, Astro, React, jQuery
 - **Command-Line Interface**: oclif
 - **Browser Extensions**: WXT
-- **Languages**: TypeScript, JavaScript
-- **Styling**: Tailwind CSS, Pico CSS
+- **Languages**: TypeScript, JavaScript, PHP
+- **Styling**: Tailwind CSS, Bootstrap, Pico CSS
 
 ## 🎯 My Approach & Journey
 
